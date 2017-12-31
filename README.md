@@ -1,2 +1,2 @@
-# StreetCoreSuggestionBox
+# StreetCore目安箱
 StreetCoreの要望を提出、バグを報告するときはこちらをお使いください
